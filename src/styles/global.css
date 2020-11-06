@@ -1,0 +1,15 @@
+html {
+  background-color: rgb(195, 251, 209);
+}
+
+/* ///// RESPONSIVE FUNDAMENTALS ///// >>> */
+html {
+  box-sizing: border-box;}
+
+*, *:before, *:after {
+  box-sizing: inherit;}
+
+img {
+max-width: 100%;
+height: auto;}
+/* <<< ///// RESPONSIVE FUNDAMENTALS ///// */
