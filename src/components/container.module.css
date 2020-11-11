@@ -1,4 +1,9 @@
 .container {
-  margin: 3rem auto;
-  max-width: 600px;
+  margin: 3rem 25px;
+  max-width: 1600px;
+  flex: 1;
+  align-self: center;
+  /* Further flex */
+  display: flex;
+  flex-direction: column;
 }

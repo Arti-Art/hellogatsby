@@ -4,16 +4,16 @@ import Header from "../components/header"
 import Container from "../components/container"
 import Footer from "../components/footer"
 
-export default function Contact() {
+export default function About() {
   return (
     <div className="mainflex">
       <Navbar />
       <Container>
         <Header 
-          headerText="Contact us." 
-          headerSubtitle="Why? Because if you don't, you're gonna die!"
+          headerText="FAQ" 
+          headerSubtitle="Frantically Assessed Quagmires"
         />
-        <p>Send us a message!</p>
+        <p>Here will be the FAQ</p>
       </Container>
       <Footer />
     </div>
